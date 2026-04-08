@@ -1,2 +1,16 @@
 IP-files/
 Z-wave-files/
+.pth
+.json
+ip-files-fillna-lstm/
+ip-files-test/
+ip-files-train-base/
+ip-files-train-meta/
+.csv
+ip-files-valid-base/
+learning_dataset/
+merged-scaled-data/
+final_data/chunk-based-split/
+final_data/test_df_prepared.parquet
+final_data/train_df_prepared.parquet
+final_data/valid_df_prepared.parquet
